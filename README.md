@@ -9,11 +9,11 @@
 ---
 
 ### 💬 About Me
-I'm not just learning how to write automated tests — I'm learning how to think like an engineer.
+I'm not just learning how to write automated tests I'm learning how to think like an engineer.
 
-I'm someone who figures things out. I’m creative, reliable, and I care about building things that *actually* work. Whether I’m writing Selenium scripts or exploring new tools like Cypress, Postman, or GitHub Actions — I bring structure, passion, and sharp attention to detail.
+I'm someone who figures things out. I’m creative, reliable, and I care about building things that *actually* work. Whether I’m writing Selenium scripts or exploring new tools like Cypress, Postman, or GitHub Actions I bring structure, passion, and sharp attention to detail.
 
-I’m currently transitioning into tech, finishing my BSc IT (online), and preparing for my ISTQB certification — but more than anything, I’m building *my own understanding* of how quality, automation, and systems come together.
+I’m currently transitioning into tech, finishing my BSc IT (online), and preparing for my ISTQB certification but more than anything, I’m building *my own understanding* of how quality, automation, and systems come together.
 
 This space is a record of that journey.
 
