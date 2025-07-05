@@ -1,4 +1,4 @@
-<h1 align="center">👋🏽 Hey, I’m Azuza Siyothula</h1>
+<h1 align="center">👋🏽 Hey, I’m Azuza</h1>
 
 <p align="center">
   🧪 QA Engineer in the making <br/>
