@@ -1,34 +1,41 @@
+<h1 align="center">⋆.˚🦢⋆ Hi, I'm Azuza</h1>
+<h3 align="center">👩🏾‍💻 QA Engineer.</h3>
+<p align="center"> Passionate about breaking things on purpose so they work better. <p>
 
-# 💫 About Me:
-👋🏽 Hey, I’m Azuza<br><br>🧪 QA Engineer in the making<br>🛠 Automation | Curiosity | Clean Testing<br>🧠 I break things on purpose – so they work better.<br><br>💬 About Me<br><br>I'm not just learning how to write automated tests I'm learning how to think like an engineer.<br><br>I'm someone who figures things out. I’m creative, reliable, and I care about building things that actually work. Whether I’m writing Selenium scripts or exploring new tools like Cypress, Postman, or GitHub Actions I bring structure, passion, and sharp attention to detail.<br><br>I’m currently transitioning into tech, finishing my BSc IT (online), and preparing for my ISTQB certification but more than anything, I’m building my own understanding of how quality, automation, and systems come together.<br><br>This space is a record of that journey.<br><br>🔧 Projects In Progress<br><br>Here’s what I’m building to learn deeply and stand out:<br><br>| 🛠 Project                                                                   | 🚀 Description                                                      | 📁 Status         |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------- |
-| [`smart-qa-framework`](https://github.com/azuzasiyothula/smart-qa-framework) | UI + API testing using Selenium, REST Assured & CI/CD               | 🧪 In Progress    |
-| `flaky-test-detector`                                                        | CLI tool to auto-detect & log flaky tests across multiple runs      | 🔍 Research Phase |
-| `lighthouse-performance-ci`                                                  | CI pipeline for performance & accessibility audits using Lighthouse | ⏳ Coming Soon     |
-| `mock-api-test-suite`                                                        | Mock REST API server + automation suite to simulate edge cases      | 🟢 Live Soon      |
+<h3 align="left">💬 About Me:</h3>
+  
+I don't just write automated tests
 
-<br>
+I figure things out. I’m creative, reliable, and I care about building systems that actually work. Whether I’m scripting in **Selenium**, sending requests through **Postman**, or building pipelines with **GitHub Actions**, I bring structure, sharp attention to detail, and the will to make things better. 
 
-(You’ll see them here as I build, break, and rebuild.)<br><br>📓 How I Work<br><br>const azuza = {<br>  traits: ["Creative", "Reliable", "Curious", "Communicative"],<br>  tools: ["Selenium", "Cypress", "Postman", "Java", "Python", "GitHub Actions"],<br>  currentlyLearning: ["CI/CD", "TestOps", "Advanced API Testing"]<br>}
+Currently:
+- 🎓 Studying **BSc IT** (online)
+- 🎯 Preparing for **ISTQB certification**
+- 📈 Transitioning into **tech with a QA/Automation focus**
 
+This GitHub space is where I learn *by building, breaking, and rebuilding*. It’s my digital lab.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/azuza-siyothula/) 
+<h3 align="left">🔧 Projects In Progress</h3>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=azuzasiyothula&theme=calm&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=azuzasiyothula&theme=calm&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azuzasiyothula&theme=calm&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+| 🛠 Project | 🚀 Description | 📁 Status |
+|-----------|----------------|-----------|
+| **AI-Assisted Test Failure Diagnoser** | Test failures are a major pain point in automation. This tool helps identify likely causes and suggests fixes using AI | 🧪 In Progress |
+| **Dynamic Test Case Prioritization Based on Git Changes** | It's a smart way to speed up CI pipelines by only running tests impacted by recent code changes. | 🔍 Research Phase |
+| **Self-Healing Selenium Framework** | Test flakiness is one of QA’s biggest headaches. This framework attempts to recover from UI changes by trying alternative locators. | ⏳ Coming Soon |
+| **API Regression Checker with AI-Powered Semantic Comparison** | It solves the subtle problem of detecting meaningful API changes not just structural ones by comparing API responses using AI. | 🟢 Almost Live 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=azuzasiyothula&theme=calm&no-frame=true&no-bg=true&margin-w=4)
+You’ll see each of these come to life as I go.
+ 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=azuzasiyothula&limit=5&theme=calm&combine_all_yearly_contributions=true)
+<h3 align="left">🤝🏾 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/azuza-siyothula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azuza-siyothula/" height="30" width="40" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=azuzasiyothula&icon=2&color=12)](https://visitcount.itsvg.in)
+<h3 align="left">👾 Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azuzasiyothula" alt="azuzasiyothula" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azuzasiyothula&label=Profile%20views&color=e6ddcc&style=flat" alt="azuzasiyothula" /> </p>
+
