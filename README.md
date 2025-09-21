@@ -15,18 +15,6 @@ Currently:
 
 This GitHub space is where I learn *by building, breaking, and rebuilding*. It’s my digital lab.
 
-<h3 align="left">🔧 Projects In Progress</h3>
-
-| 🛠 Project | 🚀 Description | 📁 Status |
-|-----------|----------------|-----------|
-| **AI-Assisted Test Failure Diagnoser** | Test failures are a major pain point in automation. This tool helps identify likely causes and suggests fixes using AI | 🧪 In Progress |
-| **Dynamic Test Case Prioritization Based on Git Changes** | It's a smart way to speed up CI pipelines by only running tests impacted by recent code changes. | 🔍 Research Phase |
-| **Self-Healing Selenium Framework** | Test flakiness is one of QA’s biggest headaches. This framework attempts to recover from UI changes by trying alternative locators. | ⏳ Coming Soon |
-| **API Regression Checker with AI-Powered Semantic Comparison** | It solves the subtle problem of detecting meaningful API changes not just structural ones by comparing API responses using AI. | 🟢 Almost Live 
-
-You’ll see each of these come to life as I go.
- 
-
 <h3 align="left">🤝🏾 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/azuza-siyothula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azuza-siyothula/" height="30" width="40" /></a>
