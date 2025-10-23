@@ -51,7 +51,6 @@ My self-directed initiative where I used bug discovery as the motivation to impl
 <h3 align="left">🤝🏾 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/azuza-siyothula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Azuza Siyothula LinkedIn" height="30" width="40" /></a>
-<a href="mailto:azuzasiyothula10@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 <p align="left">
