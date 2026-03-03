@@ -1,21 +1,25 @@
 <h1 align="center">⋆.˚🦢⋆ Hi, I'm Azuza Siyothula</h1>
-<h3 align="center">👩🏾‍💻 QA Automation Engineer & Quality Advocate.</h3>
-<p align="center"> Passionate about breaking things on purpose so they work better and building systems that last. </p>
+<h3 align="center">👩🏾‍💻 Systems Engineer.</h3>
+<p align="center"> I architect systems that are born resilient. With a foundation in **Fullstack QA Automation**, I bridge the gap between **Software Engineering**, **Cybersecurity**, and **Data Integrity**. </p>
 
 ---
 
-<h3 align="left">💬 About Me:</h3>
-
-I'm a highly reliable and curious **QA Automation Engineer** who transitions from identifying flaws to implementing stable solutions. I believe in testing that is grounded in real user behavior and scalable automation. I bring structure, sharp attention to detail, and a commitment to technical excellence.
-
-My focus is on **full-stack testing** and **CI/CD integration**. Whether I’m scripting E2E tests in **Selenium**, integrating **API validation** with **REST Assured**, or optimizing pipelines with **Jenkins**, my goal is always better, faster feedback loops.
-
 Currently:
-- 🎓 Studying **BSc IT** (online)
-- 🎯 Preparing for **ISTQB CTFL** and **AWS Cloud Practitioner** certifications
-- 🚀 Actively applying skills to self-directed projects (see below!)
+
+- 🔭 **Currently Building:** a little secret...🤫
+- 🎓 **Studying:** BSc in Information Technology @ Richfield.
+- 🛡️ **Security Focus:** Penetration testing and automated vulnerability scanning.
+- 🤖 **AI/ML Interest:** Model reliability and intelligent test orchestration.
 
 This GitHub space is where I learn *by building, breaking, and rebuilding*. It’s my digital lab for quality engineering.
+
+---
+
+### 🛠️ Technical Ecosystem
+- **Languages:** `Python` (Primary), `SQL`, `Java`, `C++`, `JavaScript`
+- **Quality:** `Playwright`, `Selenium`, `Cypress`
+- **Security:** `Nmap`, `Burp Suite`, `Python-Security-Scripts`
+- **Cloud/DevOps:** `GitHub Actions`, `Jenkins`, `Docker`, `AWS`
 
 ---
 
