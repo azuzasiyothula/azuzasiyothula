@@ -1,6 +1,6 @@
 <h1 align="center">⋆.˚🦢⋆ Hi, I'm Azuza Siyothula</h1>
 <h3 align="center">👩🏾‍💻 Systems Engineer.</h3>
-<p align="center"> I architect systems that are born resilient. With a foundation in **Fullstack QA Automation**, I bridge the gap between **Software Engineering**, **Cybersecurity**, and **Data Integrity**. </p>
+<p align="center"> I architect systems that are born resilient. With a foundation in Fullstack QA Automation, I bridge the gap between Software Engineering, Cybersecurity, and Data Integrity. </p>
 
 ---
 
