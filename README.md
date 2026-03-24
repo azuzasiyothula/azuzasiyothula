@@ -1,51 +1,87 @@
 <h1 align="center">⋆.˚🦢⋆ Hi, I'm Azuza Siyothula</h1>
-<h3 align="center">👩🏾‍💻 Systems Engineer.</h3>
-<p align="center"> I architect systems that are born resilient. With a foundation in Fullstack QA Automation, I bridge the gap between Software Engineering, Cybersecurity, and Data Integrity. </p>
+<h3 align="center">👩🏾‍💻 Automation Engineer → Aspiring Data Engineer </h3>
+
+---
+<h3 align="center"> About Me </h3>
+<p align="center"> I'm a South African Engineer and BSc Information Technology student with
+a passion for building systems that are <b>reliable, scalable, and secure.</b>
+
+My journey started in QA automation, writing end-to-end test scripts,
+integrating CI/CD pipelines, and validating backend data integrity at
+<b>Inspired Testing</b>. That experience gave me something most junior
+engineers don't have early on: a deep obsession with <i>how data moves,
+where it breaks, and how to make it bulletproof.</i>
+
+Now I'm channelling that foundation into **Data Engineering** pipelines,
+cloud infrastructure, and backend systems that power real decisions in
+**FinTech and banking.**</p>
 
 ---
 
-Currently:
+### 🛠️ Tech Stack
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- 🔭 **Currently Building:** a little secret...🤫
-- 🎓 **Studying:** BSc in Information Technology @ Richfield.
-- 🛡️ **Security Focus:** Penetration testing and automated vulnerability scanning.
-- 🤖 **AI/ML Interest:** Model reliability and intelligent test orchestration.
+**Testing & Automation**
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-This GitHub space is where I learn *by building, breaking, and rebuilding*. It’s my digital lab for quality engineering.
+**CI/CD & DevOps**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-### 🛠️ Technical Ecosystem
-- **Languages:** `Python` (Primary), `SQL`, `Java`, `C++`, `JavaScript`
-- **Quality:** `Playwright`, `Selenium`, `Cypress`
-- **Security:** `Nmap`, `Burp Suite`, `Python-Security-Scripts`
-- **Cloud/DevOps:** `GitHub Actions`, `Jenkins`, `Docker`, `AWS`
-
----
-
-<h3 align="left">🌟 Featured Project: The Sharks Website Re-engineering & QA</h3>
-
-My self-directed initiative where I used bug discovery as the motivation to implement a complete front-end redesign.
-
-* **Goal:** Improve usability and implement robust quality gates.
-* **Tech:** **Cypress (JavaScript)** for E2E automation, **HTML, CSS, JavaScript** for development, and test case management via a **JIRA-like structure**.
-* **Result:** A fully tested, user-respecting web application demonstrating my dual skill set in QA and development.
-
-[Link to The Sharks Project Repository Coming Soon!]
+**Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ---
 
-<h3 align="left">👾 Languages and Tools (My Full Toolkit):</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="Cypress" width="40" height="40"/> </a> <a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-web/866d98a0028a2a7f5c9428383835f8e02d847936/public/logos/playwright.svg" alt="Playwright" width="40" height="40"/> </a> <a href="https://www.getpostman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> </a> <a href="https://cloud.google.com/sdk/docs/quickstarts" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP/Cloud" width="40" height="40"/> </a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/> </a> </p>
+## 🚀 Featured Project
+
+### 🦈 [The Sharks Rugby QA Automation Framework](https://github.com/azuzasiyothula/The-Sharks-Rugby-QA-Automation)
+> Professional-grade E2E test suite built with Playwright & JavaScript
+
+- 📐 Page Object Model (POM) architecture for maximum scalability
+- 🐛 Identified and documented a critical production sorting algorithm bug
+- ⚙️ CI/CD pipeline via GitHub Actions — regression runs on every commit
+- 🖥️ Visual regression baselines across Chromium, Firefox & WebKit
+- 🔒 Semantic & Role-based locator strategy for resilient, low-maintenance scripts
 
 ---
 
-<h3 align="left">🤝🏾 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/azuza-siyothula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Azuza Siyothula LinkedIn" height="30" width="40" /></a>
-</p>
+## 📈 Currently Working On
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azuzasiyothula&theme=flat&no-frame=true&column=7" alt="azuzasiyothula" /></a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azuzasiyothula&label=Profile%20views&color=e6ddcc&style=flat" alt="azuzasiyothula" /> </p>
+- 🔢 Strengthening **SQL** for data querying and pipeline work
+- 📊 Building my first **end-to-end data project** (Python + pandas + visualisation)
+- ☁️ Pursuing **AWS Cloud Practitioner** & **Azure AZ-900** certifications
+- 🤖 Exploring **Apache Spark** and **ETL pipeline** design patterns
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm actively seeking **graduate programmes, internships, or junior roles** in:
+
+- 📦 Data Engineering
+- 🏦 FinTech & Banking
+- 🔐 Secure Backend Systems
+
+I'm a **distance learning student**, fully available for full-time roles,
+open to hybrid, and willing to relocate.
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:azuzasiyothula10@gmail.com)
+
+---
+
+*"Build it right. Build it once. Build it so the data never lies."*
