@@ -57,8 +57,7 @@ cloud infrastructure, and backend systems that power real decisions in
 
 ## 📈 Currently Working On
 
-- 🔢 Strengthening **SQL** for data querying and pipeline work
-- 📊 Building my first **end-to-end data project** (Python + pandas + visualisation)
+- 🔢 Expanding my FinGaurd project to a big data lake for scale efficiency, showing the bad date, etc.
 - ☁️ Pursuing **AWS Cloud Practitioner** & **Azure AZ-900** certifications
 - 🤖 Exploring **Apache Spark** and **ETL pipeline** design patterns
 
